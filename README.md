@@ -7,14 +7,6 @@ This project is a **fullstack web application** built with:
 
 ---
 
-## 📂 Project Structure
-project-root/
-│── backend/ # Django REST Framework API
-│── frontend/ # React application
-│── docker-compose.yml
-│── Dockerfile
-│── README.md
-
 yaml
 ---
 

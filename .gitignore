@@ -1,0 +1,23 @@
+/.env
+/.idea/
+
+/frontend/node_modules
+/frontend/dist
+
+/.venv
+/backend/media/
+/backend/static/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django logs
+*.log
+/backend/*.log
+/backend/django.log

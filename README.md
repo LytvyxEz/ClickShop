@@ -39,8 +39,3 @@ docker-compose exec backend python manage.py createsuperuser
 yaml```
 
 
-👉 The rule: every time you start a block with \`\`\`bash, you **must close it with \`\`\`**.  
-
-Do you want me to go through your whole README and clean up **all the formatting issues** (headings, li
-
-Do you want me to add **fancy GitHub badges** (build status, Docker, Python, React, license, etc.) 
